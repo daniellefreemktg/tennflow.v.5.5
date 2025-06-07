@@ -29,7 +29,7 @@ const blogPosts: BlogPost[] = [
     id: '2',
     title: 'Nashville\'s Hidden Music Venues: Local\'s Guide',
     excerpt: 'Beyond the famous Broadway, these lesser-known music spots offer authentic Nashville experiences.',
-    author: 'Mike Thompson',
+    author: 'Sample',
     date: '2024-03-12',
     image: 'https://images.pexels.com/photos/1105666/pexels-photo-1105666.jpeg',
     category: 'Music & Entertainment',
